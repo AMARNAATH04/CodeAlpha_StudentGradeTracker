@@ -15,3 +15,5 @@ This is a Java console-based application developed during the CodeAlpha Internsh
 
 ## Author
 Amarnaath
+# CodeAlpha_StudentGradeTracker
+Java console-based Student Grade Tracker developed for CodeAlpha Internship using ArrayList and Scanner.
